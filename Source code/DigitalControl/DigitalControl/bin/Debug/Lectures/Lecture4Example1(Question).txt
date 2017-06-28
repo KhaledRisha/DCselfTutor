@@ -1,0 +1,2 @@
+Write a MATLAB commands to convert 
+G(s) = 1 / (s2 + 5s + 6) into discrete with a sample period T = 1.

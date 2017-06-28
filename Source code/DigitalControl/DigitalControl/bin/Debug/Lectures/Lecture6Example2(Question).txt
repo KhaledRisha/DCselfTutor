@@ -1,0 +1,2 @@
+Find the step response of a discrete transfer function: 
+G(z) = (0.1813) / (z - 0.8187), T = 0.2

@@ -1,0 +1,4 @@
+A unit step signal is applied to the system: 
+G(s) = (1) / (s + 1). Using MATLAB, 
+calculate and draw the output response of the system, 
+assuming a sampling period of T = 1 s.

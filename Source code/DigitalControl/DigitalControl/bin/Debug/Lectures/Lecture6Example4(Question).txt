@@ -1,0 +1,3 @@
+Draw the time response of both continuous-time 
+and discrete-time systems with transfer function: 
+G = 1 / (s + 1).

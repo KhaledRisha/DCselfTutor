@@ -1,0 +1,2 @@
+Use MATLAB to find the inverse z-transform (with power series method) for:
+Y (z) = (z^2 + z) / (z^2 + 3z + 4) 
